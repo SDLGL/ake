@@ -2,7 +2,8 @@
 
 int main（）
 {
-    printf（“first oss code\n”);
+    printf("First oss code \n");
+    printf("Second oss Code")
 
     return 0;
 }
